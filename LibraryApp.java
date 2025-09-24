@@ -36,7 +36,7 @@ public class LibraryApp {
                     System.out.println("Exiting the Library Management System...");
                     break;
                 default:
-                    System.out.println("Invalid command. Please try again.");
+                    System.out.println("Invalid command. hi hello Please try again.");
             }
         } while (!command.equalsIgnoreCase("exit"));
 
